@@ -1,0 +1,4 @@
+You are going to need [latex-common] packages to build the XeTeX sources. And
+obviously a XeTeX compiler.
+
+[latex-common]: https://github.com/aodhneine/latex-common/
